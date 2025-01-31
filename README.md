@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### I am a junior dev currently learning all things web development and web design. 
+
+- 🤖 I am interested in creative coding and the intersection between art, music, design and code.
+- 👽 I am currently learning p5.js, responsive web design, PHP and SEO optimization.
+- 🚀 Lot's more to come, thanks for being here!
+
+- 🌐 I am looking to collaborate on open source projects.
+
+
 <!--
 **StarsInTech/StarsInTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
